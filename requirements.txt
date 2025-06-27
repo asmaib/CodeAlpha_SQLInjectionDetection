@@ -5,4 +5,5 @@ pydantic
 cryptography
 aiofiles
 pymysql
+psycopg2-binary
 
