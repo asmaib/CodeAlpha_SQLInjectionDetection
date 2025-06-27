@@ -1,5 +1,4 @@
-// Base URL of the FastAPI backend
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://sql-injection-detector-zyq1.onrender.com";
 
 // Get references to form elements
 const loginForm = document.getElementById("loginForm");
